@@ -1,0 +1,4 @@
+module.exports.authController = require('./auth.controller');
+module.exports.userController = require('./user.controller');
+module.exports.serviceController = require('./service.controller');
+module.exports.placeController = require('./place.controller');
